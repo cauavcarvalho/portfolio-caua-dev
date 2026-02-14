@@ -637,7 +637,7 @@ input[type="radio"]:checked+label::before {
 }
 
 .slider[reverse=true] .item {
-    animation: reversePlay 10s linear infinite;
+    animation: reversePlay 15s linear infinite;
 }
 
 .slider .list .item p {
